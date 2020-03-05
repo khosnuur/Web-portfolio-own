@@ -1,0 +1,65 @@
+.body{
+    padding: 0px;
+    margin: 0px;
+  
+}   
+.container{
+    height: 400px;
+    width: 100%;
+    margin-left: 30px;
+    padding-bottom:70px;
+    
+}
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 40px;
+}
+
+.sec1{
+    width: 40%;
+    float: left;
+    padding-left: 20px;
+  
+}
+.sec1 img{
+    width: 34.6%;
+    float:right;
+}
+
+.img2 img{
+  width: 50%;
+  float: left;
+}
+h3{
+    color: midnightblue;
+    font-family: 'Trade Winds', cursive;
+}
+span{
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    color: rgb(168, 13, 65);
+}
+input{
+    border: none;
+    box-shadow: 5px 10px 5px   rgb(140, 163, 137);
+    color: rgb(150, 7, 35);
+   
+}
+p{
+   color: rgb(64, 73, 73);
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   font-size: 15px;
+}
+.btn{
+  background-image: repeating-linear-gradient(45deg,red,rgb(223, 218, 158),rgb(61, 9, 50));
+    text-decoration: none;
+    font-size: 25px;
+    color: rgb(44, 18, 18);
+    padding: 10px 20px;
+    margin-top: 40px;
+    border-radius: 5px 3px;
+   
+
+}
+
+
