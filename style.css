@@ -1,10 +1,17 @@
 .body{
     padding: 0px;
     margin: 0px;
+
+   
   
-}   
-.container{
-    height: 400px;
+}
+div{
+    padding-bottom:60px;
+ 
+}
+
+.intro{
+    height: 300px;
     width: 100%;
     margin-left: 30px;
     padding-bottom:70px;
@@ -22,12 +29,12 @@ h1{
   
 }
 .sec1 img{
-    width: 34.6%;
+    width: 38.9%;
     float:right;
 }
 
 .img2 img{
-  width: 50%;
+  width: 36.8%;
   float: left;
 }
 h3{
@@ -58,8 +65,9 @@ p{
     padding: 10px 20px;
     margin-top: 40px;
     border-radius: 5px 3px;
-   
-
+}
+div,.dream{
+    text-align: center;
 }
 
 
